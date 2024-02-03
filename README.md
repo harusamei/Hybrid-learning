@@ -4,7 +4,7 @@ tags: explainable AI, Neural-Symbolic learning
 我们所有的知识都开始于感性，然后进入到知性，最后以理性告终。没有比理性更高的东西了。——康德
 
 
-# 关于hybrid learning
+# 关于hybrid   
     1. What
 	Hybrid learning, also known as neuro-symbolic AI, is an advanced version of artificial intelligence that improves how a neural network arrives at a decision by adding classical rules-based (symbolic) AI to the process. 
 	This hybrid approach requires less training data and makes it possible for humans to track how AI programming made decision
