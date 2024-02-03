@@ -1,6 +1,6 @@
 研究hybrid learning读过的论文
 ==========================
-tags: explainable AI, Neural-Symbolic learning
+tags: explainable AI, Neural-Symbolic learning  
 我们所有的知识都开始于感性，然后进入到知性，最后以理性告终。没有比理性更高的东西了。——康德
 
 
