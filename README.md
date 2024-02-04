@@ -1,10 +1,10 @@
-研究hybrid learning读过的论文
+研究hybrid learning 及其它的记录
 ==========================
-tags: explainable AI, Neural-Symbolic learning  
-我们所有的知识都开始于感性，然后进入到知性，最后以理性告终。没有比理性更高的东西了。——康德
+tags: Neural-Symbolic learning, machine learning, LLM 
+我们所有的知识都开始于感性，然后进入到知性，最后以理性告终。没有比理性更高的东西了。——康德    
+内容包括 学习笔记， 一些综述文章， 还有值得再看的presentation
 
-
-# 关于hybrid   
+# 关于hybrid learning
     1. What
 	Hybrid learning, also known as neuro-symbolic AI, is an advanced version of artificial intelligence that improves how a neural network arrives at a decision by adding classical rules-based (symbolic) AI to the process. 
 	This hybrid approach requires less training data and makes it possible for humans to track how AI programming made decision
@@ -15,6 +15,7 @@ tags: explainable AI, Neural-Symbolic learning
 	
 	What Is Neuro-Symbolic AI And Why Are Researchers Gushing Over It (analyticsindiamag.com
 
-![neural and symbolic ai](image.png)
-# 几篇重要的论文
+The advantages of hybrid learning in model efficiency, generalization and interpretability (link)
+![3rd AI](./3rdAI.png)
+
 
