@@ -15,6 +15,6 @@ tags: explainable AI, Neural-Symbolic learning
 	
 	What Is Neuro-Symbolic AI And Why Are Researchers Gushing Over It (analyticsindiamag.com
 
-
+![neural and symbolic ai](image.png)
 # 几篇重要的论文
 
