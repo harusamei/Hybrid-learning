@@ -1,7 +1,9 @@
 研究hybrid learning 及其它的记录
 ==========================
 tags: Neural-Symbolic learning, machine learning, LLM 
+
 我们所有的知识都开始于感性，然后进入到知性，最后以理性告终。没有比理性更高的东西了。——康德    
+
 内容包括 学习笔记， 一些综述文章， 还有值得再看的presentation
 
 # 关于hybrid learning
